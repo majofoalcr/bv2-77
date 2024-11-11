@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/yamllint.json": [
+            "file:///Users/maria.fonseca%40cognitedata.com/Desktop/bv2-77/ice-cream-dataops-77/ice-cream-dataops/config.test.yaml",
+            "file:///Users/maria.fonseca%40cognitedata.com/Desktop/bv2-77/ice-cream-dataops-77/.github/workflows/deploy.yaml"
+        ]
+    }
+}
