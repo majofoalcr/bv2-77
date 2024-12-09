@@ -33,3 +33,14 @@ capabilities:
       scope:
         datasetScope:
           ids: [{{ uc_oee_ds_external_id }}]
+  - dataModelsAcl:
+      actions:
+        - READ
+        - WRITE
+      scope:
+        all: {}
+  - dataModelInstancesAcl:
+      actions:
+        - READ
+      scope:
+        all: {}
